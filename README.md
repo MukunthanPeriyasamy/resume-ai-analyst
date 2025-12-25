@@ -1,6 +1,6 @@
 # 🚀 ResumeAI: AI-Powered ATS Resume Analyzer
 
-ResumeAI is a standard RAG (Retrieval-Augmented Generation) application designed to help job seekers optimize their resumes for Applicant Tracking Systems (ATS). It uses **Semantic Chunking** to preserve the context of resume sections and **LLM-powered reasoning** to provide deep-dive analysis.
+ResumeAI is a standard GEN AI application designed to help job seekers optimize their resumes for Applicant Tracking Systems (ATS). It uses **Semantic Chunking** to preserve the context of resume sections and **LLM-powered reasoning** to provide deep-dive analysis.
 
 ## ✨ Key Features
 
