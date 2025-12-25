@@ -1,0 +1,8 @@
+.env
+faiss_index/
+__pycache__/
+# .gitignore
+src/__pycache__/
+src/faiss_index/
+src/temp_docs/
+__init__.py

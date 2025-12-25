@@ -1,0 +1,16 @@
+langchain
+langchain-community
+langchain-groq
+langchain-huggingface
+langchain-text-splitters
+langchain-experimental
+pypdf
+python-dotenv
+docx2txt
+chromadb
+langchain-chroma
+fastapi
+uvicorn
+faiss-cpu
+python-multipart
+langchain-experimental
