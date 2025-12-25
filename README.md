@@ -7,7 +7,7 @@ ResumeAI is a standard GEN AI application designed to help job seekers optimize 
 - **🔍 Intelligent ATS Analysis**: Evaluates formatting, readability, keyword density, and action verbs.
 - **🧠 Semantic Chunking**: Unlike standard splitters, it understands resume structure (Experience, Education, Skills) to keep related info together.
 - **⚠️ Consistency Checking**: Flags mismatches between listed skills and demonstrated projects/experience.
-- **📄 Multi-Format Support**: Supports `.pdf`, `.docx`, and `.txt` files.
+- **📄 Multi-Format Support**: Supports `.pdf`, `.docx` files.
 - **⚡ Fast Persistence**: Uses **FAISS** for vector storage with disk persistence for near-instant reloading.
 - **🤖 Powered by OpenAI**: Leverages `openai/gpt-oss-20b` for high-speed, high-quality analysis.
 
